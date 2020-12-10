@@ -47,8 +47,8 @@ activate stage 2 of the attack.
 
 Prerequisites - Libraries:
 
-- Subprocess – execution of bash script**.**
-- Requests – http get requests**.**
+- Subprocess – execution of bash script
+- Requests – http get requests
 - Os – operating system manipulation such as : chmod +x , stat and more..
 - Scapy – for dns queries (DNS tunneling)
 
