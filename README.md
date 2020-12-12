@@ -1,7 +1,5 @@
 # Intrusion Vector Attack– Phishing + DNS Tunneling
 
-## Author: Michael Perry
-
 ## OS: Linux
 
 ## Python Version: 3.
